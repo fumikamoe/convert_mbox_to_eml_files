@@ -79,3 +79,11 @@ I think, DON'T insert blank line before body in mbox/eml...
 blank line exist in some mail. these don't have `X-Gmail-Labels:`.
 
 
+---
+
+Originated from uzulla/convert_mbox_to_eml_files
+
+I convert this for Laravel Service container
+
+Thx Uzulla!
+
